@@ -38,10 +38,8 @@ textarea {
 	flex-direction: column;
 	justify-content: space-around;
 	height: 8em;
-        min-height:30vw;
 	margin: 1em;
 	max-width: 8em;
-        min-width: 30vw;
 	width: 100vw;
 }
 @keyframes show {

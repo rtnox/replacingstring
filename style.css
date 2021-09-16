@@ -1,5 +1,4 @@
 body {
-        -webkit-text-size-adjust:100%;
 	background-color: #ccc;
 	font-size: 1.1em;
 	margin: 0;
@@ -9,17 +8,9 @@ body {
 h1 {
 	font-size: 2em;
 }
-@media screen and (min-width:781px) {
 textarea {
 	width: 40vw;
 	height: 10em;
-}
-}
-@media screen and (max-width:780px) {
-textarea {
-	width: 80vw;
-	height: 10em;
-}
 }
 #ruleBoxContainer {
 	display: flex;
